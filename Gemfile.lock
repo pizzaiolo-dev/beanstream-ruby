@@ -44,7 +44,6 @@ GEM
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     unf (0.1.4)
-      unf_ext
     unf_ext (0.0.7.6)
 
 PLATFORMS
